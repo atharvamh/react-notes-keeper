@@ -1,2 +1,2 @@
 # react-notes-keeper
-simple clone of google keep
+A simple clone of google keep app that supports addition and deletion functionality of notes
